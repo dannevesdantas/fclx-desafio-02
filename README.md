@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# fclx-desafio-02
+Desafio Next.js da Full Cycle Learning Experience.
 
 ## Getting Started
 
@@ -6,31 +7,20 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### http.api
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+#### POST
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/5115895/233788483-bc7c93ae-7491-4667-a851-e29fd78bd15e.png">
 
-## Learn More
+#### GET
 
-To learn more about Next.js, take a look at the following resources:
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/5115895/233788662-03e7e139-f367-4ea3-9c7b-9cae429adf27.png">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### schema.prisma
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/5115895/233788586-c1323039-4256-44db-95f6-b1523a323dcd.png">
